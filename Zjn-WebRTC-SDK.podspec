@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = "WebRTC-SDK"
+  spec.name = "Zjn-WebRTC-SDK"
   spec.version = "z1.137.7151.11"
   spec.summary = "WebRTC pre-compiled library for Darwin. "
   spec.description = <<-DESC
@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage = "https://github.com/110jiangnan/Specs"
   spec.license = { :type => "BSD", :file => "WebRTC.xcframework/LICENSE" }
-  spec.author = "webrtc-sdk"
+  spec.author = "zjn"
 
   spec.ios.deployment_target = "13.0"
   spec.osx.deployment_target = "10.15"
